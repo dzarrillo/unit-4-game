@@ -1,0 +1,51 @@
+h1 {
+    background-color: orange;
+    margin: 20px 0 20px 0;
+    padding: 5px 0 5px 5px;
+    color: white;
+}
+
+ul {
+    background-color: olive;
+}
+
+#randomStats {
+    background: mediumvioletred;
+    height: 100%;
+}
+
+#myNumber {
+    /* background-color: lightgreen; */
+}
+
+#stats {
+    background-color: aqua;
+}
+
+#randomNumber {
+    padding: 0 0 0 5px
+}
+
+#yourTot{
+    background-color: aqua;
+    padding: 0 0 0 5px
+}
+
+#yourScore {
+    background-color: aqua;
+    padding: 0 0 0 5px;
+    height: 100%;
+    font-weight: bolder;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+    border: 5px gray solid;
+    margin: 20px 5px 20px 5px
+}
+
+img:hover {
+    transform: scale(1.1);
+  }
+
